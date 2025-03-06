@@ -5,7 +5,6 @@
 - I used **Visual Studio Code** to create and edit my files
 - I will continue to update my repo as I learn more
 - Someone forked my repository and submitted a pull request
-- I resolved the conflicts
 - I merged the pull request
 
 ## Technologies used
